@@ -20,4 +20,5 @@ This is the list of organisations that are using Cortex in **production environm
 * [Planetary Quantum](https://www.planetary-quantum.com)
 * [Platform9](https://platform9.com/)
 * [REWE Digital](https://rewe-digital.com/)
+* [Swiggy](https://www.swiggy.com/)
 * [SysEleven](https://www.syseleven.de/)
